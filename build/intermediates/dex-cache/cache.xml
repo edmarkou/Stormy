@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e5b86abd6a604aa6fa5ed57149acfa5606f01bf">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e01ce733b804ab743f660b38cbc6da0ef71e649\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\.android\build-cache\937321c899d89f2a700f8ae1c858e38399c71688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37911373db7ac1f572ccd5e2248016a9f6bb1f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b2f383abc266202d0b3159f69e9af002db5acbea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\.android\build-cache\26172bb6ed5ddb5fe8a9c34d3a73ac41dd85b224\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74c10e14405afc2c229a3afe45eaa094bfc7be11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\.android\build-cache\6a9a174e8fbfc9eebe0e27a6b4a142da16520336\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e6d6348d11836b89c2819a6f8b4eb9d9fbc1790\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\.android\build-cache\f05d7b97fa1c10cf351eb8fdc66715d8e00c9d5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2a3b8a284a5771406467079083b6166c4c08977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Domantas\.android\build-cache\ca2b1f325a34e246e2b1f5ac3e485ae6675fa3f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\Domantas\AndroidStudioProjects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a4af38e5adbcc0136a5896e7420e3ed9bd64581\classes.dex" />
+    </item>
+
+</items>

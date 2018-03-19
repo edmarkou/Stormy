@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="errorTitle">Oops! Sorry!</string>
+    <string name="errorMessage">There was an error. Please try again.</string>
+    <string name="PositiveButtonTitle">OK</string>
+    <string name="networkUnavailableMessage">No internet connection.</string>
+    <string name="noDataTextView">There is no data for daily forecast.</string>
+    <string name="upcoming_weather_for_the_next_7_days">Upcoming weather for the next 7 days</string>
+</resources>
